@@ -12,9 +12,11 @@ Formatul este bazat pe [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 - Integrare Google Analytics
 - Optimizare SEO
 
-## [1.0.0] - 2026-03-06
+## [1.1.0] - 2026-03-06
 
 ### Added
+- Badge-uri statistici în README
+- Vizualizare stele, fork-uri, last commit
 - Structură inițială proiect cu directoare organizate
 - Configurare .gitignore pentru proiect web
 - Documentație README.md completă
