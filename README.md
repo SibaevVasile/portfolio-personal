@@ -86,6 +86,12 @@ Acest proiect este dezvoltat în scop educațional.
 - **Email:** vasilesibaev@gmail.com
 - **GitHub:** https://github.com/SibaevVasile
 
+
+## 📊 Statistici Proiect
+
+![GitHub Stars](https://img.shields.io/github/stars/SibaevVasile/portfolio-personal)
+![GitHub Forks](https://img.shields.io/github/forks/SibaevVasile/portfolio-personal)
+![Last Commit](https://img.shields.io/github/last-commit/SibaevVasile/portfolio-personal)
 ---
 
 **Versiune:** 1.0.0  
